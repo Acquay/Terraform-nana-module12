@@ -4,3 +4,6 @@ variable "avail_zone" {}
 variable "env_prefix" {}
 variable "my_ip" {}
 variable "route_table_cidr_block" {}
+variable "image_name" {}
+variable "instance_type" {}
+variable "public_key_location" {}
